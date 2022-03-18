@@ -1,0 +1,16 @@
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\SearchFiles.exe
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\SearchFiles.deps.json
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\SearchFiles.runtimeconfig.json
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\SearchFiles.runtimeconfig.dev.json
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\SearchFiles.dll
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\ref\SearchFiles.dll
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\bin\Debug\net5.0\SearchFiles.pdb
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.csprojAssemblyReference.cache
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.AssemblyInfoInputs.cache
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.AssemblyInfo.cs
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.csproj.CoreCompileInputs.cache
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.dll
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\ref\SearchFiles.dll
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.pdb
+C:\Users\VINKOS\source\repos\SearchFiles\SearchFiles\obj\Debug\net5.0\SearchFiles.genruntimeconfig.cache
